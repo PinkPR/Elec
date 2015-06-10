@@ -90,7 +90,7 @@ void loop()
 
 		send(payload);
 		listen(payload);
-		Serial.println("Value read :")
+		Serial.println("Value read :");
 		Serial.println(payload_int[0]);
 
 		sensorActions[i].callback(payload_int[0]);
