@@ -2,7 +2,7 @@ Electronic Project GISTRE 2016
 ==============================
 
 Subject : make 2 Raspberry Pi communicating through NRF24 and design a protocole
-for remotely get sensor values.
+to remotely get sensor values.
 
 As we faced some problems with our Raspberries, we decided to extend the project
 to Arduino boards, in order to be able to show our work during a defense.
